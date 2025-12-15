@@ -1,6 +1,5 @@
 import os
 import random
-
 # create 3 folders
 for i in range(3):
     dir = input("Enter username (folder name): ")
@@ -12,7 +11,7 @@ for i in range(3):
 
     # create 3 random files in each folder
     for u in range(3):
-        filename = "file.txt"
+        filename = f"file{random.randint(1, 1000)}.txt"
         full_path = os.path.join(dir, filename)
 
         try:
