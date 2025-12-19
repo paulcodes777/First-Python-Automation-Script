@@ -7,6 +7,5 @@
 - Creates Files
 <br><br>
 
-
-
-📷 <img src="Paulfirstscript.png" width="600">
+📷 
+<img src="Paulfirstscript.png" width="600">
