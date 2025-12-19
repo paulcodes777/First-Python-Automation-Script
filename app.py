@@ -1,6 +1,5 @@
 import paulc
 
-print("App started")
+print("Welcome to Pauls first Python automation script.")
 
 paulc.create_users()
-
