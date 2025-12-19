@@ -13,7 +13,7 @@ def create_users():
 
         # create 3 random files in each folder
         for u in range(3):
-            filename = f"file{random.randint(1, 1000)}.txt"
+            filename = f"file{random.randint(1, 350)}.txt"
             full_path = os.path.join(dir_name, filename)
 
             try:
