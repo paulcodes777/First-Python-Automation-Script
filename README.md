@@ -1,6 +1,6 @@
 
 
-## How It Works
+## ⭐ How It Works 
 
 - Prompts for usernames
 - Creates Directories
